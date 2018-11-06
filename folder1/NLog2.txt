@@ -1,0 +1,124 @@
+2018-11-06 15:10:45.5425|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','p=C349909CF1614b498869FD2C4A8558FD' )
+2018-11-06 15:10:45.5575|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:10:45.6525|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:10:45.6525|WARN|EAPModelLoader.EaInterop|Found no instances that are connected to the required repository.
+2018-11-06 15:10:45.6525|DEBUG|EAPModelLoader.Program|Starting new instance of EA.
+2018-11-06 15:10:50.6825|DEBUG|EAPModelLoader.EaInterop|Waiting for EA to initialize.
+2018-11-06 15:10:51.3595|DEBUG|EAPModelLoader.Program|New instance of EA started, process if: 9852
+2018-11-06 15:10:51.3605|DEBUG|EAPModelLoader.Program|Select package with GUID: {C349909C-F161-4b49-8869-FD2C4A8558FD}
+
+2018-11-06 15:11:31.4035|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','p=C349909CF1614b498869FD2C4A8558FD' )
+2018-11-06 15:11:31.4145|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:11:31.4225|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:11:31.4225|DEBUG|EAPModelLoader.EaInterop|Located running entry for EA, extract the process PID
+2018-11-06 15:11:31.4385|DEBUG|EAPModelLoader.Program|Using existing instance of EA, process id: 9852
+2018-11-06 15:11:31.4385|DEBUG|EAPModelLoader.Program|Select package with GUID: {C349909C-F161-4b49-8869-FD2C4A8558FD}
+
+2018-11-06 15:14:46.9285|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','d=AE1F95D8F8B1432fBF3F2D3B61B8BA20' )
+2018-11-06 15:14:46.9415|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:14:46.9615|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:14:46.9615|DEBUG|EAPModelLoader.EaInterop|Located running entry for EA, extract the process PID
+2018-11-06 15:14:46.9695|DEBUG|EAPModelLoader.Program|Using existing instance of EA, process id: 9852
+2018-11-06 15:14:46.9695|DEBUG|EAPModelLoader.Program|Select diagram with GUID: {AE1F95D8-F8B1-432f-BF3F-2D3B61B8BA20}
+
+2018-11-06 15:17:19.1340|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' )
+2018-11-06 15:17:19.1450|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:17:19.1510|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:17:19.1510|DEBUG|EAPModelLoader.EaInterop|Located running entry for EA, extract the process PID
+2018-11-06 15:17:19.1670|DEBUG|EAPModelLoader.Program|Using existing instance of EA, process id: 9852
+2018-11-06 15:17:19.1670|DEBUG|EAPModelLoader.Program|Select element with GUID: {797C10E2-C890-414c-8DDC-2DEA7F503B44}
+
+
+2018-11-06 15:17:42.9227|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' )
+2018-11-06 15:17:42.9337|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:17:42.9507|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:17:42.9507|WARN|EAPModelLoader.EaInterop|Found no instances that are connected to the required repository.
+2018-11-06 15:17:42.9507|DEBUG|EAPModelLoader.Program|Starting new instance of EA.
+2018-11-06 15:17:47.9728|DEBUG|EAPModelLoader.EaInterop|Waiting for EA to initialize.
+2018-11-06 15:17:48.6389|DEBUG|EAPModelLoader.Program|New instance of EA started, process if: 1708
+2018-11-06 15:17:48.6519|DEBUG|EAPModelLoader.Program|Select element with GUID: {797C10E2-C890-414c-8DDC-2DEA7F503B44}
+
+
+2018-11-06 15:20:34.3170|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' )
+2018-11-06 15:20:34.3170|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:20:34.3310|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:20:34.3310|WARN|EAPModelLoader.EaInterop|Found no instances that are connected to the required repository.
+2018-11-06 15:20:34.3310|DEBUG|EAPModelLoader.Program|Starting new instance of EA.
+2018-11-06 15:20:39.3640|DEBUG|EAPModelLoader.EaInterop|Waiting for EA to initialize.
+2018-11-06 15:20:39.9641|DEBUG|EAPModelLoader.Program|New instance of EA started, process if: 7652
+2018-11-06 15:20:40.0212|DEBUG|EAPModelLoader.Program|Select element with GUID: {797C10E2-C890-414c-8DDC-2DEA7F503B44}
+2018-11-06 15:20:48.7389|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' )
+2018-11-06 15:20:48.7509|ERROR|EAPModelLoader.Program|Exception:Main(), Incorrect first argument, 'C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap' does not exist
+2018-11-06 15:20:48.7509|ERROR|EAPModelLoader.Program|   at EAPModelLoader.Program.Main(String[] args) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 94
+2018-11-06 15:20:48.7509|ERROR|EAPModelLoader.Program|Exception:Main(), command line args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' 
+2018-11-06 15:31:18.7237|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' )
+2018-11-06 15:31:18.7357|ERROR|EAPModelLoader.Program|Exception:Main(), Incorrect first command line argument, file 'C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap' does not exist
+2018-11-06 15:31:18.7357|ERROR|EAPModelLoader.Program|   at EAPModelLoader.Program.Main(String[] args) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 92
+2018-11-06 15:31:18.7357|ERROR|EAPModelLoader.Program|Exception:Main(), command line args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' 
+2018-11-06 15:32:11.3189|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' )
+2018-11-06 15:32:11.3309|ERROR|EAPModelLoader.Program|Exception:Main(), Incorrect GUID in the second command line argument ({797C10E2-C890-414c-8DDC-2DEA7F503B44}), expected length is 32 characters , actual length is 38 
+2018-11-06 15:32:11.3309|ERROR|EAPModelLoader.Program|   at EAPModelLoader.Program.Main(String[] args) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 229
+2018-11-06 15:32:11.3309|ERROR|EAPModelLoader.Program|Exception:Main(), command line args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' 
+2018-11-06 15:39:13.6742|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44' )
+2018-11-06 15:39:13.6872|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:39:13.7022|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:39:13.7022|WARN|EAPModelLoader.EaInterop|Found no instances that are connected to the required repository.
+2018-11-06 15:39:13.7022|DEBUG|EAPModelLoader.Program|Starting new instance of EA.
+2018-11-06 15:39:18.7257|DEBUG|EAPModelLoader.EaInterop|Waiting for EA to initialize.
+2018-11-06 15:39:19.3737|DEBUG|EAPModelLoader.Program|New instance of EA started, process if: 9880
+2018-11-06 15:39:19.3877|DEBUG|EAPModelLoader.Program|Select element with GUID: {797C10E2-C890-414c-8DDC-2DEA7F503B44}
+2018-11-06 15:40:37.3455|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e={797C10E2-C890-414c-8DDC-2DEA7F503B44}
+' )
+2018-11-06 15:40:37.3575|ERROR|EAPModelLoader.Program|Exception:Main(), Incorrect GUID in the second command line argument ({797C10E2-C890-414c-8DDC-2DEA7F503B44}
+), expected length is 32 characters, actual length is 40 
+2018-11-06 15:40:37.3575|ERROR|EAPModelLoader.Program|   at EAPModelLoader.Program.ExpandGuid(String guid) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 322
+   at EAPModelLoader.Program.Main(String[] args) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 118
+2018-11-06 15:40:37.3575|ERROR|EAPModelLoader.Program|Exception:Main(), command line args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e={797C10E2-C890-414c-8DDC-2DEA7F503B44}
+' 
+2018-11-06 15:41:47.4446|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e={797C10E2-C890-414c-8DDC-2DEA7F503B44}
+' )
+2018-11-06 15:41:47.4566|ERROR|EAPModelLoader.Program|Exception:Main(), Incorrect GUID in the second command line argument ({797C10E2-C890-414c-8DDC-2DEA7F503B44}
+), expected length is 32 characters, actual length is 40 
+2018-11-06 15:41:47.4566|ERROR|EAPModelLoader.Program|   at EAPModelLoader.Program.ExpandGuid(String guid) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 322
+   at EAPModelLoader.Program.Main(String[] args) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 118
+2018-11-06 15:41:47.4566|ERROR|EAPModelLoader.Program|Exception:Main(), command line args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e={797C10E2-C890-414c-8DDC-2DEA7F503B44}
+' 
+2018-11-06 15:43:07.9145|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e={797C10E2-C890-414c-8DDC-2DEA7F503B44}
+' )
+2018-11-06 15:43:33.5955|ERROR|EAPModelLoader.Program|Exception:Main(), Incorrect GUID in the second command line argument ({797C10E2-C890-414c-8DDC-2DEA7F503B44}
+), expected length is 32 characters, actual length is 40 
+2018-11-06 15:43:33.5975|ERROR|EAPModelLoader.Program|   at EAPModelLoader.Program.ExpandGuid(String guid) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 326
+   at EAPModelLoader.Program.Main(String[] args) in d:\ProiecteCSharp\EAPTCProtocolHandler\Program.cs:line 119
+2018-11-06 15:43:33.5975|ERROR|EAPModelLoader.Program|Exception:Main(), command line args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e={797C10E2-C890-414c-8DDC-2DEA7F503B44}
+' 
+2018-11-06 15:44:47.0275|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e={797C10E2-C890-414c-8DDC-2DEA7F503B44}
+' )
+2018-11-06 15:44:47.0425|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:44:47.0425|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:44:47.0425|WARN|EAPModelLoader.EaInterop|Found no instances that are connected to the required repository.
+2018-11-06 15:44:47.0425|DEBUG|EAPModelLoader.Program|Starting new instance of EA.
+2018-11-06 15:44:52.0765|DEBUG|EAPModelLoader.EaInterop|Waiting for EA to initialize.
+2018-11-06 15:44:52.7185|DEBUG|EAPModelLoader.Program|New instance of EA started, process if: 11840
+2018-11-06 15:44:52.7325|DEBUG|EAPModelLoader.Program|Select element with GUID: {797C10E2-C890-414c-8DDC-2DEA7F503B44}
+2018-11-06 15:45:18.3405|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2-C890-414c-8DDC-2DEA7F503B44
+' )
+2018-11-06 15:45:18.3535|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:45:18.3685|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:45:18.3685|WARN|EAPModelLoader.EaInterop|Found no instances that are connected to the required repository.
+2018-11-06 15:45:18.3685|DEBUG|EAPModelLoader.Program|Starting new instance of EA.
+2018-11-06 15:45:23.3895|DEBUG|EAPModelLoader.EaInterop|Waiting for EA to initialize.
+2018-11-06 15:45:24.0195|DEBUG|EAPModelLoader.Program|New instance of EA started, process if: 7928
+2018-11-06 15:45:24.0325|DEBUG|EAPModelLoader.Program|Select element with GUID: {797C10E2-C890-414c-8DDC-2DEA7F503B44}
+2018-11-06 15:45:45.4215|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 2, args='C:\Users\MateiA05\AppData\Local\Temp\EaPtcProtocolHandler\arc42-V6-short.eap','e=797C10E2C890414c8DDC2DEA7F503B44
+' )
+2018-11-06 15:45:45.4345|DEBUG|EAPModelLoader.Program|Looking for running instances of EA
+2018-11-06 15:45:45.4515|DEBUG|EAPModelLoader.EaInterop|Scanning running object table for EA instance.
+2018-11-06 15:45:45.4515|WARN|EAPModelLoader.EaInterop|Found no instances that are connected to the required repository.
+2018-11-06 15:45:45.4515|DEBUG|EAPModelLoader.Program|Starting new instance of EA.
+2018-11-06 15:45:50.4735|DEBUG|EAPModelLoader.EaInterop|Waiting for EA to initialize.
+2018-11-06 15:45:51.1275|DEBUG|EAPModelLoader.Program|New instance of EA started, process if: 10844
+2018-11-06 15:45:51.1275|DEBUG|EAPModelLoader.Program|Select element with GUID: {797C10E2-C890-414c-8DDC-2DEA7F503B44}
+2018-11-06 15:50:03.6855|DEBUG|EAPModelLoader.Program|Main():, nr. of command line arguments: 0, args='' )
+2018-11-06 15:50:03.6965|ERROR|EAPModelLoader.Program|Exception:Main(), Incorrect number of command line arguments, expected were 2 arguments, received were 0 arguments
+2018-11-06 15:50:03.6965|ERROR|EAPModelLoader.Program|   at EAPModelLoader.Program.Main(String[] args)
+2018-11-06 15:50:03.6965|ERROR|EAPModelLoader.Program|Exception:Main(), command line args='' 
